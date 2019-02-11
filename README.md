@@ -2,6 +2,10 @@
 This code is used to model the effects of temperature and pH on *Listeria monocytogenes'* sensitivity to bacteriophage (phage) treatment on a lab-scale Hispanic-style fresh cheese. 
 
 ## How to use
+
+Raw data: Cheese_Phage_Masterfile.csv
+Code: Phage_Listeria_Analysis_Model.R
+
 We constructed two linear mixed effects models for **temperature** and **pH** using the "lmer" function in the "lme4" R package. For each model:
 
 Response: log of the number (log_count) of *L. monocytogenes*
