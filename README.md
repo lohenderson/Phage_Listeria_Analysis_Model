@@ -4,6 +4,7 @@ This code is used to model the effects of temperature and pH on *Listeria monocy
 ## How to use
 
 Raw data: Cheese_Phage_Masterfile.csv
+
 Note: Day 1 data represents the counts obtained after 1 day of incubation. The data obtained and included in the inoculum column represnets calculated day 0 data.
 
 Code: Phage_Listeria_Analysis_Model.R
