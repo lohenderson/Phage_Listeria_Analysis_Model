@@ -16,7 +16,6 @@ Response: log of the number (log_count) of *L. monocytogenes*
 Random effects: 
 - replicates (rep)
 - plate nested within milk batch
-- inoculum
 
 Fixed effects:
 - temperature or pH
