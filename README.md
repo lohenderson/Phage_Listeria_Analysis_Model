@@ -26,7 +26,7 @@ Fixed effects:
 - log of the aerobic plate counts (bacterial counts in the milk before cheese was made; milk_apc)
 
 ## How to Cite
-Henderson, L.O., Cabrera-Villamizar, L.A., Skeens, J., Kent, D., Murphy, S., Wiedmann, M., and Guariglia-Oropeza, V. 2019. Environmental conditions and serotype affect *Listeria monocytogenes* susceptibility to phage treatment in a lab-scale cheese model. Journal of Dairy Science. *In submission*
+Henderson, L.O., Cabrera-Villamizar, L.A., Skeens, J., Kent, D., Murphy, S., Wiedmann, M., and Guariglia-Oropeza, V. 2019. Environmental conditions and serotype affect *Listeria monocytogenes* susceptibility to phage treatment in a lab-scale cheese model. Journal of Dairy Science. *In review*
 
 ## Authors
 L. O. Henderson, L. A. Cabrera-Villamizar, J. Skeens, D. Kent, S. Murphy, M. Wiedmann, and V. Guariglia-Oropeza
